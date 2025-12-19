@@ -10,8 +10,8 @@ namespace Banking_Application
         private const string DomainName = "ITSLIGO.LAN";
 
         // Group names 
-        private const string TellerGroupName = "Bank Teller User Group";
-        private const string AdminGroupName = "Bank Teller Administrator User Group";
+        private const string TellerGroupName = "Bank Teller ";
+        private const string AdminGroupName = "Bank Teller Administrator ";
 
         // Basic limits to reduce input abuse / DoS and maintain data integrity.
         private const int MaxTextLength = 100;
